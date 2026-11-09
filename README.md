@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img src="./dancing_kid.gif" alt="Dancing Kid" width=50%>
+    <img src="./dancing_kid.gif" alt="Dancing Kid" width=65%>
 </p>
