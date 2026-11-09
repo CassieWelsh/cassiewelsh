@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./dancing_kid.gif" alt="Dancing Kid" width=40%>
+<p align="center">
+    <img src="./dancing_kid.gif" alt="Dancing Kid" width=50%>
+</p>
